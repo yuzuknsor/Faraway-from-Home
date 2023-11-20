@@ -1,4 +1,4 @@
-<p style="font-size: 32px">还没到家 - <em>Faraway from home</em></p>
+# 还没到家 - <em>Faraway from home</em>
 <p align="right">By 卦者靈風</p>
 
 ---
